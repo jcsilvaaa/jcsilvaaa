@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me
 
 - 🎓 Fourth-year BSIT student
-- 🌱 Currently learning AWS Cloud and Software Quality Assurance
+- 🌱 Currently learning AWS Cloud 
 - 🤝 Enjoy building practical web applications and collaborating in teams
 - 📚 Always eager to learn new technologies and improve my skills
 
