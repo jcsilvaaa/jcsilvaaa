@@ -7,7 +7,6 @@
 ## 👨‍💻 About Me
 
 - 🎓 Fourth-year BSIT student
-- 🔍 Currently looking for an IT Internship / OJT (486 hours)
 - 🌱 Currently learning AWS Cloud and Software Quality Assurance
 - 🤝 Enjoy building practical web applications and collaborating in teams
 - 📚 Always eager to learn new technologies and improve my skills
